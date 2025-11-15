@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous R&D Simulator",
+  "description": "An application that emulates the future of technology by using AI to generate a timeline of plausible scientific discoveries and breakthroughs, effectively speeding up R&D through simulation.",
+  "requestFramePermissions": []
+}
